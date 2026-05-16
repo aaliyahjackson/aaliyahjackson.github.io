@@ -368,11 +368,11 @@
                   fontSize: Math.min(window.innerWidth / 4, 160),
                   text: "B-DAY",
               },
-              {
+              /*{
                   text: "Aaliyah",
                   fontSize: Math.min(window.innerWidth / 4, 160),
                   color: "#000000",
-              },
+              },*/
           ]);
       }
       textButton === null || textButton === void 0 ? void 0 : textButton.addEventListener("click", releaseTextBalloons);
