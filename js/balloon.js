@@ -366,7 +366,7 @@
               {
                   color: remainingColors[secondColorIndex],
                   fontSize: Math.min(window.innerWidth / 4, 160),
-                  text: "B-DAY",
+                  text: "BDAY",
               },
               /*{
                   text: "Aaliyah",
